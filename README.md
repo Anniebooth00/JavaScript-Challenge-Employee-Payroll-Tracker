@@ -18,8 +18,8 @@ SO THAT I can see my employees' payroll data and properly budget for the company
 - WHEN I choose to cancel, THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data.
 
 ## Screenshots
-[![Screenshot of prompt](./Assets/one.png)]
-[![Screenshot all employees and data in the console](./Assets/two.png)]
+![Screenshot of prompt](./Assets/one.png)]
+![Screenshot all employees and data in the console](./Assets/two.png)]
 
 
 ## Deployed Application
