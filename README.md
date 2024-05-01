@@ -23,7 +23,7 @@ SO THAT I can see my employees' payroll data and properly budget for the company
 
 
 ## Deployed Application
-[Link to Deployed Application](#) (Replace '#' with the URL to your deployed application.)
+[Link to Deployed Application](https://anniebooth00.github.io/JavaScript-Challenge-Employee-Payroll-Tracker/)
 
 ## Usage
 This application is designed for payroll managers to track and manage employee payroll data, allowing them to budget effectively for the company.
